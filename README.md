@@ -12,3 +12,6 @@ Chao **mundo**
 Hi this is my first chat
 
 ## Hey
+
+#Challenge 3
+##Terminology
