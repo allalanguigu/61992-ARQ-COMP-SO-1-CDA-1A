@@ -15,3 +15,6 @@ Hi this is my first chat
 
 # Challenge 3
 ## Terminology
+INP = Input
+STA = store
+LDA = load 
